@@ -1,12 +1,21 @@
 body{
         background:#CCCCCC
 }
+
+h1 {
+     text-align: center
+}
+
 p {
-        text-aling:center
+       text-align: center
+}
+
+#missao {
+        font-side: 20px
 }
 
 em strong{
-        color: red;
+        color: #FF0000;
 }
 
 
