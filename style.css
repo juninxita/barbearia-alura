@@ -14,9 +14,7 @@ body{
      text-align: center
 }
 
-p {
-       text-align: center
-}
+
 
 #missao {
         font-side: 20px
@@ -54,15 +52,19 @@ ul{
         margin: 40px 0; 
  }
 
- form label {
+ form label, form legend {
         display: block;
         font-size: 20px;
         margin: 0 0 10px;
  }
 
- form input {
+ .input-padrao {
         display: block;
         margin: 0 0 20px;
         padding: 10px 25px;
         width: 50%;
+ }
+
+ .checkbox {
+    margin: 20px 0;
  }
